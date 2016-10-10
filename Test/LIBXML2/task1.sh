@@ -1,0 +1,22 @@
+sed '/#define/d' /home/experimento/Experimento/Worskpace/LIBXML2/Task1/Task1/xmlNanoFTPScan.c > /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -U STANDALONE -U DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -D STANDALONE -U DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -U STANDALONE -D DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -U STANDALONE -U DEBUG_FTP -D PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -D STANDALONE -D DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -D STANDALONE -D DEBUG_FTP -D PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -D SUPPORT_IP6 -U STANDALONE -D DEBUG_FTP -D PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -U STANDALONE -U DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -D STANDALONE -U DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -U STANDALONE -D DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -U STANDALONE -U DEBUG_FTP -D PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -D STANDALONE -D DEBUG_FTP -U PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -D STANDALONE -D DEBUG_FTP -D PF_INET
+gcc -c /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c /home/experimento/Experimento/Test/LIBXML2/nanoftp.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h /home/experimento/Experimento/Test/LIBXML2/xmlmemory.c -nostartfiles -w -U SUPPORT_IP6 -U STANDALONE -D DEBUG_FTP -D PF_INET
+
+
+
+
+rm /home/experimento/Experimento/Test/LIBXML2/nanoftp.h.gch
+rm /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h.gch
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan2.c

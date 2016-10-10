@@ -1,0 +1,14 @@
+int test_socket(int type, int protocol) {
+
+	int check =	evutil_ersatz_socketpair(
+	#ifdef USE_AF_INET
+			AF_INET
+	#elif defined USE_AF_INET6
+			AF_INET6
+	#else
+			AF_UNIX
+	#endif
+			,type, protocol);
+	return check;
+
+}

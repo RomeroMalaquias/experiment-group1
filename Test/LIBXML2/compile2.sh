@@ -1,0 +1,16 @@
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan.c
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPParser.c
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPTest.c
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPScan.o
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPParser.o
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPTest.o
+rm /home/experimento/Experimento/Test/LIBXML2/xmlmemory.o
+rm /home/experimento/Experimento/Test/LIBXML2/xmlmemory.h.gch
+rm /home/experimento/Experimento/Test/LIBXML2/nanoftp.h.gch
+rm /home/experimento/Experimento/Test/LIBXML2/nanoftp.h1
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPTest2.c
+rm /home/experimento/Experimento/Test/LIBXML2/bla.o
+rm /home/experimento/Experimento/Test/LIBXML2/test.o
+rm bla
+rm /home/experimento/Experimento/Test/LIBXML2/task2test.c
+rm /home/experimento/Experimento/Test/LIBXML2/xmlNanoFTPParser.c

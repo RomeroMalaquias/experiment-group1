@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Warm1/analytics.c&apos; to &apos;auth.c&apos;" description="Rename resource &apos;analytics.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="analytics.c" name="auth.c" stamp="1475781354399" updateReferences="true"/>
+</session>

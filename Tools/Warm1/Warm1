@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Aquecimento 1
+Comment=Aquecimento 1
+Icon=/home/experimento/Experimento/Tools/Warm1/icon.xpm
+Exec=/home/experimento/Experimento/Tools/Warm1/run.sh
+Terminal=false

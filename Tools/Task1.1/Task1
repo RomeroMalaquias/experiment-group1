@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Tarefa 1
+Comment=Tarefa 1
+Icon=/home/experimento/Experimento/Tools/Task1.1/icon.xpm
+Exec=/home/experimento/Experimento/Tools/Task1.1/run.sh
+Terminal=false

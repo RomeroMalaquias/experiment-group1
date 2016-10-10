@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Warm3/xmlNanoFTPTest.c&apos; to &apos;testConnection.c&apos;" description="Rename resource &apos;xmlNanoFTPTest.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="xmlNanoFTPTest.c" name="testConnection.c" stamp="1475794128275" updateReferences="true"/>
+</session>

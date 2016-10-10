@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Tarefa 3
+Comment=Tarefa 3
+Icon=/home/experimento/Experimento/Tools/Task3.1/icon.xpm
+Exec=/home/experimento/Experimento/Tools/Task3.1/run.sh
+Terminal=false
